@@ -155,19 +155,7 @@ python capstone_analysis.py
 
 ---
 
-# 📷 Output
 
-The project generates:
-
-- Business Reports
-- Interactive Dashboards
-- Correlation Heatmaps
-- Sales Charts
-- Customer Churn Charts
-- House Price Charts
-- Prediction Results
-
----
 
 # 📌 Business Insights
 
@@ -218,9 +206,7 @@ Evaluation Metrics:
 
 **Ruchika Singh**
 
-MCA Student
 
-Data Science Enthusiast
 
 ---
 
@@ -230,6 +216,3 @@ This project was completed as part of the **Week 8 Capstone Project** under **Th
 
 ---
 
-## 📄 License
-
-This project is created for educational and internship purposes.
